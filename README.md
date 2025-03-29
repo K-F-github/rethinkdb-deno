@@ -1,5 +1,7 @@
 # rethinkdb-deno
 
+## Deno has introduced Node and NPM compat,use Rethinkdb from NPM.
+
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/rethinkdb/mod.ts)
 
 A RethinkDB driver for Deno.
